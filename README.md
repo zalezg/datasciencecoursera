@@ -1,4 +1,4 @@
-# 第一章节
+# 笔记
 by The Data Scientist’s Toolbox
 ##简介
 第一部分 data science 综述，视频 01，建议观看；
